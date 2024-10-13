@@ -22,6 +22,7 @@ dependencies = [
     "numpy",
     "scipy",
     "tokenizers",
+    "torchaudio==2.4.0",
     "torch==2.0.1",
     "tqdm",
     "transformers",
