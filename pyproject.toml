@@ -23,7 +23,7 @@ dependencies = [
     "scipy",
     "tokenizers",
     "torchaudio==2.4.0",
-    "torch==2.0.1",
+    "torch==2.4.0",
     "tqdm",
     "transformers",
 ]
